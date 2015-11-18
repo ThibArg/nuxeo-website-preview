@@ -1,7 +1,10 @@
 # nuxeo-website-preview
 
-
-
+**WARNING: DO NOT USE THIS REPOSITORY (2015-08)**
+It has been cloned and is maintained [here](https://github.com/nuxeo-sandbox/nuxeo-website-preview).
+ 
+ 
+<hr>
 The plug-in provides a widget which displays the preview of a mini-site, where an .html file is displayed, referencing images and resources with _relative_ paths.
 
 It assumes the current document:
